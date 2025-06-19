@@ -3,3 +3,8 @@
     margin: 0;
     box-sizing: border-box;
 }
+main{
+    margin : 0 auto;
+    width: 80%; 
+    background-color: red;
+}
