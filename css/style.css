@@ -3,6 +3,12 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+footer{
+    background-color: brown;
+    color: antiquewhite;
+    text-align: center;
+}
 main{
     margin : 0 auto;
     width: 80%; 
@@ -11,4 +17,5 @@ main{
 header{
     background-color: blue;
     height: 100px;
+
 }
